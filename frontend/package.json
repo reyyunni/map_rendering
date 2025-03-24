@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.8",
+    "axios": "^1.7.9",
+    "jest": "^29.7.0",
+    "react": "^19.0.0"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "axios": "axios/dist/node/axios.cjs"
+    }
+  }
+}
